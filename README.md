@@ -60,6 +60,3 @@ https://www.linkedin.com/posts/muhammad-mehdi-7a487435a_laravel-php-webdevelopme
 - Help beginners understand route types
 - Provide clean practice examples
 
-## 👨‍💻 Author
-**Azad**  
-GitHub: https://github.com/Azad
